@@ -20,7 +20,7 @@ body::before {
   content: "";
   position: fixed;
   background: #040404 url("../img/bg-two.jpg") top right no-repeat;
-  filter: brightness(50%);
+  opacity: 0.6;
   background-size: cover;
   left: 0;
   right: 0;
